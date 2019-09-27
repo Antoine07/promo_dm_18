@@ -1,5 +1,7 @@
 <?php
 
+// faites tout dans l'autre fichier app_array.php
+
 require_once __DIR__ . '/vendor/autoload.php';
 
 // importer les namespaces PHP 7.1
